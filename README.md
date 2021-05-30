@@ -1,1 +1,2 @@
 # Text-SMS-Sending-in-php
+ - This demo created in core php.So first open index.php file and set credentials array('key' => '' , 'secret'=> '') please add both becuase without key and secret key not working.

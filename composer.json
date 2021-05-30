@@ -1,0 +1,6 @@
+{
+    "require": {
+        "chrisbarr/amazon-sns-php-api": "^1.8",
+        "aws/aws-sdk-php": "^3.99"
+    }
+}
